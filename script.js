@@ -32,8 +32,7 @@
     "cursor":  "cursor",
     "border":  "border",
     "ta": "text-align",
-    "jc": "justify-content"
-
+    "jc": "justify-content",
   };
 
 
